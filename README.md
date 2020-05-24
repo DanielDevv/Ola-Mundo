@@ -4,3 +4,5 @@
  Repositório criado durante uma aula ao vivo!
  
  Essa linha adicionei diretamente no site! QUE IMPRESSIONANTE!
+
+ Em busca de conhecimento para se tornar um Desenvolvedor Full Stack.
